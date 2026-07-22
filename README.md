@@ -904,7 +904,7 @@ This document will be presented as an open-source project. We will continuously 
 - **Research Team:** Yang Liu's Group (Tsinghua), Wenbing Huang's Group (Renmin University), ByteDance AI Drug Discovery Team
 - **Related Research:** UniMoMo framework, All-atom Iterative Variational Autoencoder (IterVAE), all-atom geometric latent space diffusion models, unified modeling.
 - **Published Journal:** ICML 2025, 2025.03
-- **Paper Link:** [UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design](https://go.hyper.ai/LeaQF)
+- **Paper Link:** [UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design](https://hyper.ai/papers/2503.19300)
 
 ### **70. [Protein language model Prot42 generates high-affinity binders using only the target protein sequence](https://hyper.ai/news/40385)**
 

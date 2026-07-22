@@ -1,5 +1,5 @@
 # Awesome AI for Science
-[EN](README_EN.md) | **CN**
+[EN](README.md) | **CN**
 - [**前言**](#前言)
 - [**AI+   生物医药：AI+Biopharmaceutical**](#ai---生物医药aibiopharmaceutical)
   - [**1. AdaDR 在药物重定位方面的性能优于多个基准方法**](#1-adadr-在药物重定位方面的性能优于多个基准方法)
@@ -286,8 +286,8 @@
   - [**10. AI 预测预测全球变暖状况**](#10-ai-预测预测全球变暖状况)
   - [**11. GeoAI 新模型，解释青藏高原地表热流分布**](#11-geoai-新模型解释青藏高原地表热流分布)
   - [**12. 「问海」海洋环境智能预报大模型，性能优于数值海洋预报**](#12-问海海洋环境智能预报大模型性能优于数值海洋预报)
-  - [**13. 明尼苏达大学提出知识引导机器学习模型 FHNN，实现高精度洪水预报**](#14-明尼苏达大学提出知识引导机器学习模型-fhnn实现高精度洪水预报)
-  - [**14. Google 发布全球洪水预报系统第二版，显著延长预报有效时长**](#13-google-发布全球洪水预报系统第二版显著延长预报有效时长)
+  - [**13. 明尼苏达大学提出知识引导机器学习模型 FHNN，实现高精度洪水预报**](#13-明尼苏达大学提出知识引导机器学习模型-fhnn实现高精度洪水预报)
+  - [**14. Google 发布全球洪水预报系统第二版，显著延长预报有效时长**](#14-google-发布全球洪水预报系统第二版显著延长预报有效时长)
 - [**AI4S 政策解读：AI4S Policy**](#ai4s-政策解读ai4s-policy)
   - [**1. 科技部出台政策防范学术界 AI 枪手**](#1-科技部出台政策防范学术界-ai-枪手)
   - [**2. 政策：科技部会同自然科学基金委启动「人工智能驱动的科学研究」( AI for Science ) 专项部署工作**](#2-政策科技部会同自然科学基金委启动人工智能驱动的科学研究-ai-for-science--专项部署工作)
@@ -1139,7 +1139,7 @@
 - **相关研究：** 跨分子种类统一生成框架 UniMoMo、全原子的迭代变分自编码器（IterVAE）、全原子几何隐空间扩散模型、统一建模
 - **发布期刊：** ICML 2025, 2025.03
 
-- **论文链接：** [UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design](https://go.hyper.ai/LeaQF)
+- **论文链接：** [UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design](https://hyper.ai/papers/2503.19300)
 
 ### **70. [蛋白质语言模型 Prot42 仅利用目标蛋白序列即可生成高亲和力结合剂](https://hyper.ai/news/40385)**
 
